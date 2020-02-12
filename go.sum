@@ -1,0 +1,8 @@
+github.com/mattn/go-sqlite3 v2.0.3+incompatible h1:gXHsfypPkaMZrKbD5209QV9jbUTJKjyR5WD3HYQSd+U=
+github.com/mattn/go-sqlite3 v2.0.3+incompatible/go.mod h1:FPy6KqzDD04eiIsT53CuJW3U88zkxoIYsOqkbpncsNc=
+github.com/tohirov1994/clients-core v0.0.0-20200212073124-ce05074dac68 h1:2jq9CPeaOJQzuGmyNC7G7ZzH7MqpolTCMRojkI7qWsM=
+github.com/tohirov1994/clients-core v0.0.0-20200212073124-ce05074dac68/go.mod h1:vU7Iz7/rW3M2ux7HJvcf22Y4rUBtXGJu0mhAlm25j70=
+github.com/tohirov1994/database v0.0.0-20200212054101-55fd339a0f0f h1:H9S8YfoPRUYixd35ExFANdM3trPQxQZ0lWBZNAsupBU=
+github.com/tohirov1994/database v0.0.0-20200212054101-55fd339a0f0f/go.mod h1:So4MlVUdxeGj7efAT1Qc8gJjBEuNX285MWfQay4jYEM=
+github.com/tohirov1994/terminal v0.0.0-20200212073555-ce8f98b1a59a h1:6EOERsLYt0yzxA3DvPG3WLN3fbb0tupUlxL1hl8CkQs=
+github.com/tohirov1994/terminal v0.0.0-20200212073555-ce8f98b1a59a/go.mod h1:9tSPmCAOpxxjHFE/EpnBZ5Iap8V6TaE2U0dQ7mILMgs=
